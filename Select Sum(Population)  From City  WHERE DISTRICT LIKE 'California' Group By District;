@@ -1,6 +1,0 @@
-https://www.hackerrank.com/challenges/revising-aggregations-sum
-
-Select Sum(Population) 
-From City 
-WHERE DISTRICT LIKE 'California'
-Group By District;
